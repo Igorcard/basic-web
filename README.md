@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🏷️ Layout
 
 Você pode visualizar o layout do projeto através
-[desse link]().
+[desse link](igorcard.github.io/basic-web/).
